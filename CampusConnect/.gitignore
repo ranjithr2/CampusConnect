@@ -1,0 +1,15 @@
+target/
+*.class
+*.war
+*.ear
+.settings/
+.project
+.classpath
+.idea/
+*.iml
+.vscode/
+*.log
+database.properties
+.env
+.DS_Store
+Thumbs.db

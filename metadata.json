@@ -1,0 +1,6 @@
+{
+  "name": "CampusConnect - College Event Management System",
+  "description": "Full-stack College Event Management System featuring smart FIFO waitlist algorithm, role-based access for Students and Admins, attendance tracking, JDBC MySQL schema, and complete Maven Jakarta EE project export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

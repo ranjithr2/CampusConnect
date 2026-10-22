@@ -1,0 +1,14 @@
+# CampusConnect Database Configuration
+# Copy this file to database.properties and configure your local MySQL credentials.
+# Note: database.properties is ignored by git to protect credentials.
+
+db.url=jdbc:mysql://localhost:3306/campusconnect?useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=UTC&characterEncoding=UTF-8
+db.user=root
+db.password=YourRootPasswordHere
+db.driver=com.mysql.cj.jdbc.Driver
+
+# Connection Pool Defaults
+db.pool.initialSize=5
+db.pool.maxTotal=20
+db.pool.maxIdle=10
+db.pool.minIdle=5
